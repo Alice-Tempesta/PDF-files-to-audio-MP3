@@ -11,7 +11,7 @@ This project is a converter for PDF files to MP3 audio files. It utilizes the gT
 
 3. **Clone the Repository:**
    Clone the repository to your computer by executing the command:
-   <br>```git clone git://github.com/Alice-Tempesta/PDF-files-to-audio-MP3.git```<br/>
+   <br>```git clone git@github.com:Alice-Tempesta/PDF-files-to-audio-MP3.git```<br/>
 
 4. **Navigate to the Project Directory:**
    <br>```cd pdf-to-mp3```<br/>
