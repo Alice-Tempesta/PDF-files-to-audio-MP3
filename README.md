@@ -7,32 +7,33 @@ This project is a converter for PDF files to MP3 audio files. It utilizes the gT
 
 1. **Install Dependencies:**
    Ensure that all necessary dependencies are installed. You can install them by executing the following command in your terminal or command prompt:
-   ```pip install gtts art pdfplumber```
+<br>```pip install gtts art pdfplumber```<br/>
 
-2. **Clone the Repository:**
+3. **Clone the Repository:**
    Clone the repository to your computer by executing the command:
-   ```git clone https://github.com/Alice-Tempesta/PDF-files-to-audio-MP3/tree/main/pdf-to-mp3.py```
+   <br>```git clone git://github.com/Alice-Tempesta/PDF-files-to-audio-MP3.git```<br/>
 
-3. **Navigate to the Project Directory:**
-   ```cd pdf-to-mp3```
+4. **Navigate to the Project Directory:**
+   <br>```cd pdf-to-mp3```<br/>
+   ```git checkout main -- pdf-to-mp3.py```
 
-4. **Working with Files:**
+6. **Working with Files:**
    - **Uploading PDF File:**
      Place the PDF file you want to convert into the project directory.
 
-5. **Run the Program:**
+7. **Run the Program:**
    Run the program by executing the following command:
-   ```python pdf_to_mp3_converter.py```
+   <br>```python pdf_to_mp3_converter.py```<br/>
 
-6. **Input Data:**
+8. **Input Data:**
    - Enter the name of the PDF file you want to convert (e.g., `example.pdf`).
    - Choose the language (e.g., 'en' for English or 'ru' for Russian).
 
-7. **Wait for Results:**
+9. **Wait for Results:**
    - The program will process the PDF file, extract text, and convert it into an MP3 audio file.
    - After completion, you will be notified of the location where your new audio file is saved.
 
-8. **Locating the Output File:**
+10. **Locating the Output File:**
    - The MP3 audio file will be saved in the same directory as your original PDF file.
    - The new file will have the same base name as the original PDF but with the `.mp3` extension.
 
